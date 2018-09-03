@@ -23,16 +23,16 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/sliding_window.png
 [image5_1]: ./output_images/bboxes_and_heat1.png
 [image5_2]: ./output_images/bboxes_and_heat2.png
-[image5_3]: ./output_images/bboxes_and_heat3
-[image5_4]: ./output_images/bboxes_and_heat4
-[image5_5]: ./output_images/bboxes_and_heat5
-[image5_6]: ./output_images/bboxes_and_heat6
+[image5_3]: ./output_images/bboxes_and_heat3.png
+[image5_4]: ./output_images/bboxes_and_heat4.png
+[image5_5]: ./output_images/bboxes_and_heat5.png
+[image5_6]: ./output_images/bboxes_and_heat6.png
 [image6_1]: ./output_images/labels_map.png
-[image6_2]: ./output_images/labels_map2
-[image6_3]: ./output_images/labels_map3
-[image6_4]: ./output_images/labels_map4
-[image6_5]: ./output_images/labels_map5
-[image6_6]: ./output_images/labels_map6
+[image6_2]: ./output_images/labels_map2.png
+[image6_3]: ./output_images/labels_map3.png
+[image6_4]: ./output_images/labels_map4.png
+[image6_5]: ./output_images/labels_map5.png
+[image6_6]: ./output_images/labels_map6.png
 [image7]: ./output_images/output_bboxes.png
 [video1]: ./project_video.mp4
 
